@@ -1,0 +1,19 @@
+{
+  "name": "foodscience-graphql-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Food Science GraphlQL Express server.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sierkje/foodscience-graphql-server.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sierkje/foodscience-graphql-server/issues"
+  },
+  "homepage": "https://github.com/sierkje/foodscience-graphql-server#readme"
+}
